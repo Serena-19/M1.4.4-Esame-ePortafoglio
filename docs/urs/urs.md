@@ -135,6 +135,7 @@ I clienti terzi (o aziende terze) come per i clienti potranno eseguire operazion
 | 2.1.1 | L'impiegato può effettuare richieste di prestiti e mutui sotto richiesta scritta del cliente |M|
 | 3.2.1 | L'impiegato può aprire un conto corrente per il cliente sotto sua richiesta scritta  |M|
 | 3.2.2 | L'impiegato può chiudere un conto corrente per il cliente sotto sua richiesta scritta |M|
+| 3.2.3 | L'impiegato può bloccare un conto corrente |M|
 | 3.3.0 | L'impiegato può assegnare un libretto di assegni legato a un conto |M|
 | 3.3.1 | L'impiegato può assegnare una carta di credito legata a un conto |M| 
 
@@ -142,7 +143,7 @@ I clienti terzi (o aziende terze) come per i clienti potranno eseguire operazion
 | ID | Descrizione | Priorità |
 | --------------- | ----------- | ---------- | 
 | 3.1.0 | Il cliente può, dopo aver eseguito l'accesso, eseguire operazioni di trasferimento di denaro |M|
-| 3.2.0 | Il cliente può richiedere la lista movimenti del suo conto dei 30 giorni precedenti |M|
+| 3.2.0 | Il cliente può visualizzare la lista movimenti del suo conto dei 30 giorni precedenti |M|
 | 3.3.0 | Il cliente può richiedere l'apertura di un mutuo |M|
 | 3.3.1 | Il cliente può richiedere l'apertura di un prestito |M|
 | 3.4.0 | Il cliente può richiedere una carta di credito collegata al conto |M|
