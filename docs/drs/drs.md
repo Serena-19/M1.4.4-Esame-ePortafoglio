@@ -1,8 +1,11 @@
-# Title of the project
+### ePortafoglio app
+##### ITS ICT - Serena Schincaglia
 
-## Design Requirement Specification Document
 
-DIBRIS – Università di Genova. Scuola Politecnica, Corso di Ingegneria del Software 80154
+**VERSION : 1.0**
+
+**Authors**  
+Serena Schincaglia
 
 
 <div align='right'> <b> Authors </b> <br> AA <br> BB  </div>
@@ -11,7 +14,7 @@ DIBRIS – Università di Genova. Scuola Politecnica, Corso di Ingegneria del So
 
 Version | Data | Author(s)| Notes
 ---------|------|--------|------
-1 | XX/YY/ZZ | AA <br> BB | First Versionn of the document. Document Template
+1.0 | 29/09/2022 | Serena Schincaglia | Prima versione del documento
 
 ## Table of Content
 
@@ -41,8 +44,8 @@ Version | Data | Author(s)| Notes
 
 ##  <a name="intro"></a>  1 Introduction
 <details>
-    <summary> The design specification document reflects the design and provides directions to the builders and coders of the product.</summary> 
-    Through this document, designers communicate the design for the product to which the builders or coders must comply. The design specification should state how the design will meet the requirements.
+    Questo documento va ad illustrare gli update e i requisiti del progetto "ePortafoglio App", gestione conti correnti, realizzato su commissione dalla azienda Narizzano SPA.
+
 </details>
     
 ### <a name="purpose"></a> 1.1 Purpose and Scope
