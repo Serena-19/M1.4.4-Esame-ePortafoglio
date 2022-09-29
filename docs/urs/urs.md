@@ -12,9 +12,9 @@ Serena Schincaglia
 
 | Version    | Date        | Authors      | Notes        |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.1 | 29/09/2022 | Serena Schincaglia| Update URS document, Functional Requirements |
-| 0.1 | 29/09/2022 | Serena Schincaglia | Tests Classi |
-| 0.1 | 29/09/2022 | Serena Schincaglia | Creazione classi e relative funzioni |
+| 1.0 | 29/09/2022 | Serena Schincaglia| Update URS document, Functional Requirements |
+| 1.0 | 25/09/2022 | Serena Schincaglia | Tests Classi |
+| 1.0 | 22/09/2022 | Serena Schincaglia | Creazione classi e relative funzioni |
 
 # Table of Contents
 
